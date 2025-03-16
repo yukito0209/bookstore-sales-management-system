@@ -1,13 +1,35 @@
-# Bookstore Sales Management System 书店销售管理系统
+# 📚 Bookstore Sales Management System 书店销售管理系统
 
-This is my course project for Database Systems Principles during my undergraduate studies.  
-这是我本科期间“数据库系统原理”课程的课程设计。
+## 🌟 项目简介 | Project Introduction
 
-This is **a WinForm-based project**. Due to the outdated nature of this framework, the project is only suitable as a reference for undergraduate students looking to complete their course projects.  
-这是**一个基于WinForm的项目**。由于该框架已经过时，因此该项目只适合于广大饱受课程设计摧残的本科生们参考。
+<div align="center">
+  
+🔖 **中文说明**  
+这是**一个基于WinForm的项目**，作为本科 _《数据库系统原理》_ 课程的课程设计。由于该框架已经过时，本项目主要面向需要完成课程设计的本科生提供参考。
 
-You can open this project by **Microsoft Visual Studio**.  
-你可以用**Microsoft Visual Studio**打开这个项目。
+🔖 **English Description**  
+This is **a WinForm-based project** developed for the _Database Systems Principles_ course during my undergraduate studies. As this framework is outdated, the project is primarily intended as a reference for undergraduates completing course projects.
 
-I will appreciate it if you give a **star** for this repo!  
-如果它对你有所帮助，请**star**这个repo，不胜感谢！
+</div>
+
+## 🛠️ 技术栈 | Technology Stack
+
+<div align="center">
+
+|           类别           |                   技术实现                   |
+|:------------------------:|:-------------------------------------------:|
+|       ✨ **编程语言**     |                     C#                     |
+|     🖥️ **开发框架**      |         WinForm (.NET Framework)           |
+|     🗄️ **数据库**       |           Microsoft SQL Server             |
+|     🧩 **开发工具**      |     Microsoft Visual Studio 2022           |
+
+</div>
+
+
+## ⭐ 如果本项目对你有帮助，请点击 Star 支持！If this project helps you, please give it a star!
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yukito0209/bookstore-sales-management-system&type=Date)](https://star-history.com/#yukito0209/bookstore-sales-management-system&Date)
+
+</div>
